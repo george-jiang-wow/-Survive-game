@@ -1,4 +1,4 @@
-# -Survive-game
+# Survive-game
 If anyone have any copyright question with this repo,please chat with me on my blog.
 
 Made by this luogu user.
